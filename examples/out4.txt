@@ -1,0 +1,27 @@
+Iteration No. 1
+x =
+2
+0
+2
+2
+5
+Iteration No. 2
+x =
+2
+1
+6
+0
+3
+Iteration No. 3
+x =
+4
+1
+9
+0
+0
+Final result:
+4
+1
+9
+0
+0

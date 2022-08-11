@@ -1,0 +1,23 @@
+Iteration No. 1
+x =
+ 2
+ 0
+12
+ 2
+Iteration No. 2
+x =
+  2
+0.6
+  6
+  0
+Iteration No. 3
+x =
+3.2
+0.6
+  0
+  0
+Final result:
+3.2
+0.6
+  0
+  0

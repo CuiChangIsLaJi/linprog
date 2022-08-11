@@ -1,0 +1,34 @@
+Iteration No. 1
+x =
+ 0
+ 3
+ 8
+16
+12
+Iteration No. 2
+x =
+ 2
+ 3
+ 2
+16
+ 0
+Iteration No. 3
+x =
+2
+3
+0
+8
+4
+Iteration No. 4
+x =
+4
+2
+0
+0
+4
+Final result:
+4
+2
+0
+0
+4
